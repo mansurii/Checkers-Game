@@ -24,20 +24,10 @@ Welcome to the Checkers game, implemented using the Model-View-Controller (MVC) 
 - Ensure you have **Java** installed on your machine. You can verify the installation by running `java -version` in your command line.
 
 ### Steps using bash
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/mansurii/checkers-game.git
-
-
-### Steps using bash
-1. ** Clone the repository:**
-   git clone https://github.com/mansurii/othello-game.git
-2. ** Navigate to the project directory:**
-   cd Checker-game
-3. ** Complile the checkers game:**
-   javac -d bin src/*.java
-4.  ** Run the checkers game:**   
-    java -cp bin Main
+1. ** Clone the repository:** git clone https://github.com/mansurii/othello-game.git
+2. ** Navigate to the project directory:** cd Checker-game
+3. ** Complile the checkers game:** javac -d bin src/*.java
+4.  ** Run the checkers game:** Java -cp bin Main
 
 ## Usage
 ### Starting the Game:
